@@ -12,8 +12,9 @@
 101010101010110101010101010010110
 
 ccccccccccccccccccccccccccccccccc
-
-
+yyyyyyyyyyyyyyyyyyyyyyyyyy
+wwwwwwwwwwwwwwwwwwwwwwwwww
+qqqqqqqqqqqqqqqqqqqqqqqqqq
 bbbbbbbbbb
 
 
